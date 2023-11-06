@@ -1,0 +1,54 @@
+.navbar a
+{
+    float: right;
+    color: black;
+    font-weight: 500;
+    font-size: 180%;
+    padding: 20px 20px;
+    text-decoration: underline dotted #4c6b4f;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Name
+{
+    position: absolute;
+    padding: 50px 50px;
+    float: left;
+    font-size: larger;
+
+}
+
+body{
+    background: linear-gradient(to right,#4F6F52,#739072);
+}
+
+.main{
+    padding-top: 10%;
+    padding-left:10% ;
+}
+.image{
+    position: absolute;
+    float: right;
+    padding-left: 45%;
+    padding-top: 5%;
+    width: 850px;
+    height:650px;
+}
+h1{
+    font-size: 350%;
+
+}
+h2{
+    font-size: 250%;
+
+}
+.badge-base{
+    font-size:0%;
+    float: left;
+}
+
+.icon{
+    border-image:5px #4F6F52;
+    padding: 1%;
+    justify-content: space-around;
+}
